@@ -1,0 +1,1 @@
+console.log("toi dang o nhanh 1");
